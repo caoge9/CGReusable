@@ -1,0 +1,16 @@
+PODS:
+  - CGReusable (0.1.0)
+
+DEPENDENCIES:
+  - CGReusable (from `../`)
+
+EXTERNAL SOURCES:
+  CGReusable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CGReusable: 1fbf0c4e5e7c47a6e56e4dcadf8b1e288591ee93
+
+PODFILE CHECKSUM: efcc8235779d9d669b42a48526f22ba8d72abe4a
+
+COCOAPODS: 1.10.0
