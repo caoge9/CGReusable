@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CGReusable_Tests' do
+  pod 'CGReusable', :path => '../'
+  
+  
+end
